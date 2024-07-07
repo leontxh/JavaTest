@@ -1,0 +1,5 @@
+Use getMapping and annotation,
+Based on the getMapping like Public, Admin and etc and based on the rights of the user.
+
+
+So for example, Admin annotation can use and get getAllUserData, where as Public annotation can only use and get getPersonalData.

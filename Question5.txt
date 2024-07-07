@@ -1,0 +1,4 @@
+SELECT p.Name, s.Sport, S.Score
+FROM players p, score s
+where p.Player_no = s.Player_no
+order by S.Score desc;
